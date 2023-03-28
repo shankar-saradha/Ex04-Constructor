@@ -69,3 +69,4 @@ namespace employee
  ![Csharp exp](https://user-images.githubusercontent.com/93978702/228172896-4b2b6e8d-599e-4ce2-a7fd-a93378a94861.png)
 
  ## Result:
+Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
